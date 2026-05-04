@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Dragon News Online App](https://dragon-news-app-pi.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://my-nextjs-portfolio-nu.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio Page](https://my-nextjs-portfolio-nu.vercel.app/)
 
 - 💬 Ask me about **Html, Css3, Tailwind, Java Script and also MERN. Currently, I am moving towards Full Stack Development to further improve my programming skills and maintain my learning mindset.**
 
