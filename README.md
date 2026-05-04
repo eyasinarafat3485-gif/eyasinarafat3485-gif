@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF8C00&center=true&vCenter=true&width=600&lines=Hello,+There!+👋;I'm+Eyasin+Arafat...;Nice+to+meet+you!" /> </h1>
 <h3 align="center">A passionate Full Stack Developer from Bangaldesh.</h3>
 
-- 🔭 I’m currently working on [SkillSphere Online Learning App]([https://skill-sphere-learning-app-a-8.vercel.app/])
+- 🔭 I’m currently working on [SkillSphere Online Learning App](https://skill-sphere-learning-app-a-8.vercel.app/)
 
 - 🌱 I’m currently learning **MERN form Programming Hero.**
 
