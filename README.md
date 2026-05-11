@@ -22,8 +22,8 @@
 <a href="https://www.linkedin.com/in/md-eyasin-arafat-webdev" target="_blank">
   <img 
     align="center" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" 
-    alt="md-eyasin-arafat-webdev" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    alt="linkedin" 
     height="30" 
     width="40" 
   />
