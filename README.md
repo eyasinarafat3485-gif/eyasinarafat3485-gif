@@ -122,3 +122,18 @@
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">📊 GitHub Statistics & Analysis:</h3>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eyasinarafat3485-gif&show_icons=true&theme=radical" alt="eyasinarafat3485-gif's GitHub stats" width="48%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyasinarafat3485-gif&theme=radical" alt="eyasinarafat3485-gif's streak stats" width="48%"/>
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyasinarafat3485-gif&layout=compact&theme=radical&langs_count=8&hide_border=false" alt="Top Languages" width="48%"/>
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=eyasinarafat3485-gif&theme=radical&no-frame=false&row=1&column=6" alt="GitHub Trophies"/>
+</p>
