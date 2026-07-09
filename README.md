@@ -21,7 +21,7 @@
 - 👯 Looking to collaborate on **innovative web projects, SaaS products, and open source**
 - 🤝 Seeking help with **[HireLoop](https://hireloop-web-apps.vercel.app/)** — Job Management System
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-page-ea.vercel.app)**
-- 💬 Ask me about **React, TypeScript, Next.js, Node.js, MongoDB, Tailwind CSS & Figma**
+- 💬 Ask me about **React, JavaScript, TypeScript, Next.js, Node.js, MongoDB, Tailwind CSS & Figma**
 - ⚡ Fun fact: I love turning complex problems into simple, beautiful, and user-friendly solutions
 - 📫 How to reach me: **[eyasinwebdev@gmail.com](mailto:eyasinwebdev@gmail.com)**
 
