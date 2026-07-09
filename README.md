@@ -1,5 +1,17 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF8C00&center=true&vCenter=true&width=600&lines=Hello,+There!+👋;I'm+Eyasin+Arafat...;Nice+to+meet+you!" /> </h1>
-<h3 align="center">A passionate Full Stack Developer from Bangaldesh.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF8C00&center=true&vCenter=true&width=600&lines=Hello,+There!+👋;I'm+Eyasin+Arafat...;Nice+to+meet+you!" />
+</h1>
+
+<h3 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
+
+<p align="center">
+  <a href="https://portfolio-page-ea.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+<a href="https://www.linkedin.com/in/md-eyasin-arafat-webdev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</p>
 
 - 🔭 I’m currently working on [SkillSphere Online Learning App](https://skill-sphere-learning-app-a-8.vercel.app/)
 
