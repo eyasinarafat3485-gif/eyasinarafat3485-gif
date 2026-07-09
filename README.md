@@ -15,18 +15,15 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building [SkillSphere Online Learning App](https://skill-sphere-learning-app-a-8.vercel.app/) - A modern online learning platform
-- 👯 I’m looking to collaborate on [BloodBridge | Blood Donotion plathform](https://assignment-10-client-sooty.vercel.app)
-
-- 🤝 I’m looking for help with [HireLoop Job Management app](https://hireloop-web-apps.vercel.app)
-
-- 👨‍💻 All of my projects are available at [My Portfolio Page](https://portfolio-page-ea.vercel.app)
-- 🌱 Mastering **MERN Stack** with a strong focus on **TypeScript**, **Next.js** & scalable architecture currently learning **form Programming Hero.**
-- 👯 Looking to collaborate on **innovative web & Saas projects** and open source
-- 💬 Ask me about **Html, Css3, Tailwind, Java Script, Type Script and also MERN. Currently, I am moving towards Full Stack Development to further improve my programming skills and maintain my learning mindset.**
-- ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions
-
-- 📫 How to reach me **eyasinwebdev@gmail.com**
+- 🔭 Currently building **[SkillSphere](https://skill-sphere-learning-app-a-8.vercel.app/)** — A modern online learning platform
+- 🌱 Mastering **MERN Stack** with strong focus on **TypeScript**, **Next.js**, and scalable web applications (Learning from Programming Hero)
+- 👯 Looking to collaborate on **[BloodBridge](https://assignment-10-client-sooty.vercel.app)** — A Blood Donation Platform
+- 👯 Looking to collaborate on **innovative web projects, SaaS products, and open source**
+- 🤝 Seeking help with **[HireLoop](https://hireloop-web-apps.vercel.app/)** — Job Management System
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-page-ea.vercel.app)**
+- 💬 Ask me about **React, TypeScript, Next.js, Node.js, MongoDB, Tailwind CSS & Figma**
+- ⚡ Fun fact: I love turning complex problems into simple, beautiful, and user-friendly solutions
+- 📫 How to reach me: **[eyasinwebdev@gmail.com](mailto:eyasinwebdev@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
