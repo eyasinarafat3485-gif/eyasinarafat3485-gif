@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio Page](https://portfolio-page-ea.vercel.app)
 
-- 💬 Ask me about **Html, Css3, Tailwind, Java Script and also MERN. Currently, I am moving towards Full Stack Development to further improve my programming skills and maintain my learning mindset.**
+- 💬 Ask me about **Html, Css3, Tailwind, Java Script, Type Script and also MERN. Currently, I am moving towards Full Stack Development to further improve my programming skills and maintain my learning mindset.**
 
 - 📫 How to reach me **eyasinwebdev@gmail.com**
 
