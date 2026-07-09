@@ -123,17 +123,8 @@
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Statistics & Analysis:</h3>
+<h3 align="left">📈 Contribution Graph</h3>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eyasinarafat3485-gif&show_icons=true&theme=radical" alt="eyasinarafat3485-gif's GitHub stats" width="48%"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyasinarafat3485-gif&theme=radical" alt="eyasinarafat3485-gif's streak stats" width="48%"/>
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyasinarafat3485-gif&layout=compact&theme=radical&langs_count=8&hide_border=false" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=eyasinarafat3485-gif&theme=radical&no-frame=false&row=1&column=6" alt="GitHub Trophies"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eyasinarafat3485-gif&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
