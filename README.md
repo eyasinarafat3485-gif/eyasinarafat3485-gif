@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [BloodBridge | Blood Donotion plathform](https://assignment-10-client-sooty.vercel.app)
 
-- 🤝 I’m looking for help with [Dragon News Online App](https://dragon-news-app-pi.vercel.app/)
+- 🤝 I’m looking for help with [HireLoop Job Management app](https://hireloop-web-apps.vercel.app)
 
 - 👨‍💻 All of my projects are available at [My Portfolio Page](https://my-nextjs-portfolio-nu.vercel.app/)
 
