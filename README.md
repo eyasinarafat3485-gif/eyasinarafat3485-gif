@@ -123,6 +123,14 @@
   </a>
 </p>
 
+<h3 align="left">📊 GitHub Statistics & Analysis:</h3>
+
+<p align="left">
+ 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyasinarafat3485-gif&theme=radical" alt="eyasinarafat3485-gif's streak stats" width="48%"/>
+</p>
+
+
 <h3 align="left">📈 Contribution Graph</h3>
 
 <p align="center">
