@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eyasinarafat3485-gif/eyasinarafat3485-gif/main/profile-banner-dark.svg" alt="Eyasin Arafat Banner" width="100%"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF8C00&center=true&vCenter=true&width=600&lines=Hello,+There!+👋;I'm+Eyasin+Arafat...;Nice+to+meet+you!" />
 </h1>
