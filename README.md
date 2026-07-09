@@ -34,8 +34,6 @@
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
-
-<h4>Languages</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" border="0"/>
