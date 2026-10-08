@@ -19,11 +19,11 @@
 
 ### About Me
 
-- 🔭 Currently building **[ElectroMart](https://electro-mart-sigma.vercel.app/)** — A modern online electornic platform
+- 🔭 Currently building **[StyleHub](https://style-hub-brown.vercel.app/)** — A modern online Fashion platform
 - 🌱 Mastering **MERN Stack** with strong focus on **JavaScript**, **Next.js**, and scalable web applications (Learning from Programming Hero)
 - 👯 Looking to collaborate on **[BloodBridge](https://assignment-10-client-sooty.vercel.app)** — A Blood Donation Platform
 - 👯 Looking to collaborate on **innovative web projects, SaaS products, and open source**
-- 🤝 Seeking help with **[HireLoop](https://hireloop-web-apps.vercel.app/)** — Job Management System
+- 🤝 Seeking help with **[Developers Club](https://subscription-based-project.vercel.app/)** — WordPress Developer Platform Hub
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://eyasinarafat.bengalit.com.bd/)** — Professional Portfolio Page
 - 💬 Ask me about **React, JavaScript, TypeScript, Next.js, Node.js, MongoDB, Tailwind CSS & Figma**
 - ⚡ Fun fact: I love turning complex problems into simple, beautiful, and user-friendly solutions
