@@ -118,7 +118,7 @@
 
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eyasinarafat3485-gif/eyasinarafat3485-gif/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img alt="github contribution grid snake animation" src="https://github.com/eyasinarafat3485-gif/eyasinarafat3485-gif/raw/output/github-snake.svg" width="100%">
 </p>
 
 
