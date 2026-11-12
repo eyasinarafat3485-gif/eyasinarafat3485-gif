@@ -27,7 +27,7 @@
 
 - 👋 Hi, I'm **Md. Eyasin Arafat**.
 - 🔭 Currently working as a **Remote MERN Stack Developer at [Bengal-IT](https://bengalit.com.bd/)**, building modern web applications.
-- 🌱 Exploring **Advanced Backend Development, AI Engineering, TypeScript & Scalable Software Architecture**.
+- 🌱 Advancing my skills in **Advanced Backend Development, AI Engineering, TypeScript & Scalable Software Architecture**.
 - 💻 Building [**StyleHub**](https://style-hub-brown.vercel.app/) — A modern fashion e-commerce platform.
 - 🛠️ Exploring [**Developers Club**](https://subscription-based-project.vercel.app/) — A WordPress developer platform hub.
 - 🚀 Interested in **SaaS products, real-world projects, innovative web applications & open-source collaboration**.
