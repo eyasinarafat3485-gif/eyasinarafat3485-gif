@@ -31,7 +31,6 @@
 - 💻 Building [**StyleHub**](https://style-hub-brown.vercel.app/) — A modern fashion e-commerce platform.
 - 🛠️ Exploring [**Developers Club**](https://subscription-based-project.vercel.app/) — A WordPress developer platform hub.
 - 🚀 Interested in **SaaS products, real-world projects, innovative web applications & open-source collaboration**.
-- 💬 Ask me about **JavaScript, React, Next.js, TypeScript, Node.js, MongoDB & Tailwind CSS**.
 - 🎯 Focused on **AI Engineering, scalable systems & modern software development**.
 - 🌐 Portfolio: [eyasinarafat.bengalit.com.bd](https://eyasinarafat.bengalit.com.bd/)
 - 📫 Email: **[eyasinwebdev@gmail.com](mailto:eyasinwebdev@gmail.com)**
