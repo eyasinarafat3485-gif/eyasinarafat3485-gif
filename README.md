@@ -1,5 +1,5 @@
-<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/e94ace1e-bd39-4e8c-9347-c8d7faa4e038" /><p align="center">
-<img src="https://raw.githubusercontent.com/eyasinarafat3485-gif/eyasinarafat3485-gif/main/eyasin-arafat-banner-v2.png" alt="Eyasin Arafat - Profile Banner"width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eyasinarafat3485-gif/eyasinarafat3485-gif/main/eyasin-arafat-banner-v2.png" alt="Eyasin Arafat - Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -121,7 +121,4 @@
   <img src="https://ghchart.rshah.org/eyasinarafat3485-gif" alt="Contribution Graph" width="100%" />
 </p>
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eyasinarafat3485-gif/eyasinarafat3485-gif/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
-</p>
+
