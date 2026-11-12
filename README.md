@@ -36,12 +36,20 @@
 - 🌐 Portfolio: [eyasinarafat.bengalit.com.bd](https://eyasinarafat.bengalit.com.bd/)
 - 📫 Email: **[eyasinwebdev@gmail.com](mailto:eyasinwebdev@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Follow Me On Social</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/md-eyasin-arafat-webdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
-<a href="https://www.facebook.com/eyasinarafatwebdev12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40"/></a>
-<a href="https://wa.me/8801960421858" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40"/></a>
-<a href="https://leetcode.com/u/Eyasin12/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="leetcode" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/md-eyasin-arafat-webdev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://leetcode.com/u/Eyasin12/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
+  </a>
+  <a href="https://discord.com/users/1493825703639126066" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+  </a>
+  <a href="https://www.facebook.com/eyasinarafatwebdev12" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+  </a>
 </p>
 
 <h2 align="left">
