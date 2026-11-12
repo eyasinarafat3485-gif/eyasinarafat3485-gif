@@ -27,7 +27,7 @@
 
 - 👋 Hi, I'm **Md. Eyasin Arafat**.
 - 🔭 Currently working as a **Remote MERN Stack Developer at [Bengal-IT](https://bengalit.com.bd/)**, building modern web applications.
-- 🌱 Advancing my skills in **Advanced Backend Development, AI Engineering, TypeScript & Scalable Software Architecture**.
+- 🌱 Advancing my skills in **Advanced Backend Development, AI Engineering & Scalable Software Architecture**.
 - 💻 Building [**StyleHub**](https://style-hub-brown.vercel.app/) — A modern fashion e-commerce platform.
 - 🛠️ Exploring [**Developers Club**](https://subscription-based-project.vercel.app/) — A WordPress developer platform hub.
 - 🚀 Interested in **SaaS products, real-world projects, innovative web applications & open-source collaboration**.
@@ -44,6 +44,10 @@
 <a href="https://leetcode.com/u/Eyasin12/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="leetcode" height="30" width="40"/></a>
 </p>
 
+<h2 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" style="vertical-align: middle;" />
+  TECHNOLOGY STACK:
+</h2>
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none;">
@@ -86,7 +90,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/></a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="illustrator"/></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="photoshop"/></a>
+<a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="framer"/></a>
 </p>
+
 
 <h4>Deployment & Version Control</h4>
 <p align="left">
