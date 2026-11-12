@@ -3,31 +3,38 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF8C00&center=true&vCenter=true&width=600&lines=Hello,+There!+👋;I'm+Eyasin+Arafat...;Nice+to+meet+you!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF8C00&center=true&vCenter=true&width=600&lines=Hello,+There!+👋;I'm+Eyasin+Arafat...;"/>
 </h1>
 
-<h3 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">
+  Remote MERN Stack Developer at <a href="https://bengalit.com.bd/">Bengal-IT</a>
+</h3>
 
 <p align="center">
-<a href="https://eyasinarafat.bengalit.com.bd/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/md-eyasin-arafat-webdev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  Full Stack Developer | React.js | Next.js | TypeScript
 </p>
 
-### About Me
+<p align="center">
+  <a href="https://eyasinarafat.bengalit.com.bd/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-eyasin-arafat-webdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-- 🔭 Currently building **[StyleHub](https://style-hub-brown.vercel.app/)** — A modern online Fashion platform
-- 🌱 Mastering **MERN Stack** with strong focus on **JavaScript**, **Next.js**, and scalable web applications (Learning from Programming Hero)
-- 👯 Looking to collaborate on **[BloodBridge](https://assignment-10-client-sooty.vercel.app)** — A Blood Donation Platform
-- 👯 Looking to collaborate on **innovative web projects, SaaS products, and open source**
-- 🤝 Seeking help with **[Developers Club](https://subscription-based-project.vercel.app/)** — WordPress Developer Platform Hub
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://eyasinarafat.bengalit.com.bd/)** — Professional Portfolio Page
-- 💬 Ask me about **React, JavaScript, TypeScript, Next.js, Node.js, MongoDB, Tailwind CSS & Figma**
-- ⚡ Fun fact: I love turning complex problems into simple, beautiful, and user-friendly solutions
-- 📫 How to reach me: **[eyasinwebdev@gmail.com](mailto:eyasinwebdev@gmail.com)**
+### 👨‍💻 About Me
+
+- 👋 Hi, I'm **Md. Eyasin Arafat**.
+- 🔭 Currently working as a **Remote MERN Stack Developer at [Bengal-IT](https://bengalit.com.bd/)**, building modern web applications.
+- 🌱 Exploring **Advanced Backend Development, AI Engineering, TypeScript & Scalable Software Architecture**.
+- 💻 Building [**StyleHub**](https://style-hub-brown.vercel.app/) — A modern fashion e-commerce platform.
+- 🛠️ Exploring [**Developers Club**](https://subscription-based-project.vercel.app/) — A WordPress developer platform hub.
+- 🚀 Interested in **SaaS products, real-world projects, innovative web applications & open-source collaboration**.
+- 💬 Ask me about **JavaScript, React, Next.js, TypeScript, Node.js, MongoDB & Tailwind CSS**.
+- 🎯 Focused on **AI Engineering, scalable systems & modern software development**.
+- 🌐 Portfolio: [eyasinarafat.bengalit.com.bd](https://eyasinarafat.bengalit.com.bd/)
+- 📫 Email: **[eyasinwebdev@gmail.com](mailto:eyasinwebdev@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
