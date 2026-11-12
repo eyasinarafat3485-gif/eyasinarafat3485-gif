@@ -116,9 +116,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyasinarafat3485-gif&theme=radical" alt="eyasinarafat3485-gif's streak stats" width="48%"/>
 </p>
 
-<h2 align="center">📈 GitHub Contribution Graph</h2>
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
 <p align="center">
-  <img src="https://ghchart.rshah.org/eyasinarafat3485-gif" alt="Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/eyasinarafat3485-gif/eyasinarafat3485-gif/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 
