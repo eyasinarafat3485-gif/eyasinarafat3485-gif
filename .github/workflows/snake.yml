@@ -1,27 +1,20 @@
-name: Generate Snake Animation
-
+name: generate stats images
 on:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: Platane/snk@v3
+      - uses: jstrieb/github-stats@master
         with:
-          github_user_name: eyasinarafat3485-gif
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+          username: almamuncodes
+          exclude_repos:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
