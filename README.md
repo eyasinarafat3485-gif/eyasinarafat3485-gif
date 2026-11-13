@@ -5,7 +5,8 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF8C00&center=true&vCenter=true&width=600&lines=Hello,+There!+👋;I'm+Eyasin+Arafat...;"/>
+ <a href="https://github.com/eyasinarafat3485-gif" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF8C00&center=true&vCenter=true&width=600&lines=Hello,+There!+👋;I'm+Eyasin+Arafat...;" alt="Typing Animation" /></a>
 </h1>
 
 <h3 align="center">
