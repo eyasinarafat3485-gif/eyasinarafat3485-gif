@@ -49,37 +49,44 @@
   </a>
 </p>
 
-<h2 align="left">🛠️ TECHNOLOGY STACK</h2>
+<h2 align="left">⚡ TECHNICAL ARSENAL</h2>
 
 <h3 align="left">Languages:</h3>
+<a href="https://github.com/eyasinarafat3485-gif" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="My Skills" />
+</a>
+
+<h3 align="left">CSS Frameworks & Libraries:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,&theme=dark" />
 </p>
 
-<h3 align="left">Frontend Development:</h3>
+<h3 align="left">JavaScript Frameworks & Libraries:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" />
 </p>
 
-<h3 align="left">Backend & Database:</h3>
+<h3 align="left">Database & Model:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark" />
 </p>
 
-<h3 align="left">CMS & Platforms:</h3>
+<h3 align="left">Deployment Platform:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" />
 </p>
 
-<h3 align="left">Design Tools:</h3>
+<h3 align="left">Design & Graphics:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" />
 </p>
 
-<h3 align="left">Deployment & Version Control:</h3>
+<h3 align="left">Tools & Technologies:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman&theme=dark" />
 </p>
+
+
 <h3 align="center">📊 GitHub Statistics & Analysis</h3>
 
 <p align="center">
