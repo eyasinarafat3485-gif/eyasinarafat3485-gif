@@ -10,9 +10,9 @@
   Remote MERN Stack Developer at <a href="https://bengalit.com.bd/">Bengal-IT</a>
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   Full Stack Developer | React.js | Next.js | TypeScript
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://eyasinarafat.bengalit.com.bd/" target="_blank">
