@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eyasinarafat3485-gif/eyasinarafat3485-gif/main/eyasin-arafat-banner-v2.png" alt="Eyasin Arafat - Profile Banner" width="100%" />
+ <a href="https://github.com/eyasinarafat3485-gif" target="_blank">
+  <img src="https://raw.githubusercontent.com/eyasinarafat3485-gif/eyasinarafat3485-gif/main/eyasin-arafat-banner-v2.png" alt="Eyasin Arafat - Profile Banner" width="100%"/>
+</a>
 </p>
 
 <h1 align="center">
