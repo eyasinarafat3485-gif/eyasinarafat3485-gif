@@ -51,32 +51,32 @@
 
 <h2 align="left">🛠️ TECHNOLOGY STACK</h2>
 
-<h3 align="left">Languages & Tools</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
 </p>
 
-<h3 align="left">Frontend Development</h3>
+<h3 align="left">Frontend Development:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 </p>
 
-<h3 align="left">Backend & Database</h3>
+<h3 align="left">Backend & Database:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
 </p>
 
-<h3 align="left">CMS & Platforms</h3>
+<h3 align="left">CMS & Platforms:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
 </p>
 
-<h3 align="left">Design Tools</h3>
+<h3 align="left">Design Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
 </p>
 
-<h3 align="left">Deployment & Version Control</h3>
+<h3 align="left">Deployment & Version Control:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" />
 </p>
