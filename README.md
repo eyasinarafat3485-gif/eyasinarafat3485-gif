@@ -58,22 +58,30 @@
 
 <h3 align="left">CSS Frameworks & Libraries:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,&theme=dark" />
+  <a href="https://github.com/eyasinarafat3485-gif" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" />
+  </a>
 </p>
 
 <h3 align="left">JavaScript Frameworks & Libraries:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" />
+  <a href="https://github.com/eyasinarafat3485-gif" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" alt="React, Next.js, Node.js, Express" />
+  </a>
 </p>
 
 <h3 align="left">Database & Model:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark" />
+  <a href="https://github.com/eyasinarafat3485-gif" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark" alt="MongoDB, PostgreSQL, Prisma" />
+  </a>
 </p>
 
 <h3 align="left">Deployment Platform:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" />
+  <a href="https://github.com/eyasinarafat3485-gif" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" alt="Vercel, Netlify" />
+  </a>
 </p>
 
 <h3 align="left">Design & Graphics:</h3>
