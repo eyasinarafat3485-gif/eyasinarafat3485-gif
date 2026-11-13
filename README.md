@@ -108,11 +108,28 @@
 <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="render"/></a>
 </p>
 
-<h3 align="left">📊 GitHub Statistics & Analysis:</h3>
+<h3 align="center">📊 GitHub Statistics & Analysis</h3>
 
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyasinarafat3485-gif&theme=radical" alt="eyasinarafat3485-gif's streak stats" width="48%"/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=eyasinarafat3485-gif&show_icons=true&theme=radical&hide_border=true"
+    alt="GitHub Overall Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyasinarafat3485-gif&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=eyasinarafat3485-gif&theme=radical&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
 
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 <p align="center">
