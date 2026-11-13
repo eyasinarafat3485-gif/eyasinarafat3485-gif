@@ -56,17 +56,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="My Skills" />
 </a>
 
-<h3 align="left">CSS Frameworks & Libraries:</h3>
+<h3 align="left">Frameworks & Libraries:</h3>
 <p align="left">
   <a href="https://github.com/eyasinarafat3485-gif" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" />
-  </a>
-</p>
-
-<h3 align="left">JavaScript Frameworks & Libraries:</h3>
-<p align="left">
-  <a href="https://github.com/eyasinarafat3485-gif" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" alt="React, Next.js, Node.js, Express" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,express&theme=dark" alt="Tailwind, React, Next.js, Node.js, Express" />
   </a>
 </p>
 
