@@ -30,8 +30,8 @@
 - 💻 Building [**StyleHub**](https://style-hub-brown.vercel.app/) — A modern fashion e-commerce platform.
 - 🛠️ Exploring [**Developers Club**](https://subscription-based-project.vercel.app/) — A WordPress developer platform hub.
 - 🚀 Interested in **SaaS products, real-world projects, innovative web applications & open-source collaboration**.
-- 🌐 Portfolio: [eyasinarafat.bengalit.com.bd](https://eyasinarafat.bengalit.com.bd/)
-- 📫 Email: **[eyasinwebdev@gmail.com](mailto:eyasinwebdev@gmail.com)**
+- 🌐 Explore My Portfolio: [eyasinarafat.bengalit.com.bd](https://eyasinarafat.bengalit.com.bd/)
+- 📫 Feel free to reach me out: **[eyasinwebdev@gmail.com](mailto:eyasinwebdev@gmail.com)**
 
 <h3 align="left">🌐 Follow Me On Social</h3>
 <p align="left">
