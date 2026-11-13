@@ -84,6 +84,13 @@
   </a>
 </p>
 
+<h3 align="left">CMS Platform:</h3>
+<p align="left">
+  <a href="https://github.com/eyasinarafat3485-gif" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress, Elementor, WooCommerce" />
+  </a>
+</p>
+
 <h3 align="left">Design & Graphics:</h3>
 <p align="left">
   <a href="https://github.com/eyasinarafat3485-gif" target="_blank">
