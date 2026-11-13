@@ -101,7 +101,7 @@
 <h3 align="left">Tools & Technologies:</h3>
 <p align="left">
   <a href="https://github.com/eyasinarafat3485-gif" target="_blank">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman&theme=dark" alt="Windows, Ubuntu, Notion, Git, GitHub, VS Code, Postman" />
+    <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,postman&theme=dark" alt="Windows, Git, GitHub, VS Code, Postman" />
   </a>
 </p>
 
