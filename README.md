@@ -12,6 +12,9 @@
 <h3 align="center">
   Remote MERN Stack Developer at <a href="https://bengalit.com.bd/">Bengal-IT</a>
 </h3>
+<h4 align="center">
+  Full Stack Developer | React.js | Next.js | TypeScript
+</h4>
 
 <!-- <p align="center">
   Full Stack Developer | React.js | Next.js | TypeScript
